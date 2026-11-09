@@ -1,0 +1,101 @@
+Ranking,NIM,Nama Mahasiswa,Program Studi,Fakultas,Semester,C1_Depresi,C2_Kecemasan,C3_Stres,C4_Penurunan_IPK,C5_Gangguan_Tidur,Skor_SAW,Tingkat_Urgensi,Rekomendasi_Tindakan
+1,260411100045,Rizky Handayani,Akuntansi,Fakultas Ekonomi dan Bisnis,2,35,34,42,1.43,5,0.8805,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+2,260411100022,Dimas Hidayat,Manajemen,Fakultas Ekonomi dan Bisnis,1,29,40,40,1.29,5,0.8589,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+3,230411100076,Ilham Hakim,Ilmu Hukum,Fakultas Hukum,8,26,33,39,1.63,5,0.8214,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+4,240411100005,Rian Saputra,Teknik Industri,Fakultas Teknik,6,28,42,29,1.38,5,0.8195,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+5,260411100086,Tri Lestari,Teknik Elektro,Fakultas Teknik,2,25,31,36,1.87,5,0.8084,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+6,230411100025,Maya Wijaya,Manajemen,Fakultas Ekonomi dan Bisnis,8,27,36,36,1.24,5,0.7998,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+7,230411100066,Aulia Santoso,Teknik Mesin,Fakultas Teknik,7,38,24,30,1.64,5,0.7990,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+8,240411100096,Maya Setiawan,Teknik Elektro,Fakultas Teknik,5,41,16,35,1.79,4,0.7755,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+9,250411100065,Ratna Safitri,Ilmu Hukum,Fakultas Hukum,4,27,24,33,1.36,5,0.7237,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+10,230411100021,Aulia Novita,Sistem Informasi,Fakultas Teknik,7,28,20,39,1.49,4,0.7150,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+11,230411100089,Maya Wijaya,Teknik Industri,Fakultas Teknik,8,23,28,29,1.76,4,0.7062,Prioritas 1 (Kritis / Darurat),Rujukan Segera ke Psikolog Kampus (< 24 Jam)
+12,250411100056,Tia Lestari,Manajemen,Fakultas Ekonomi dan Bisnis,4,27,17,33,1.10,5,0.6612,Prioritas 2 (Tinggi),Jadwalkan Konseling Tatap Muka (Minggu Ini)
+13,260411100073,Bambang Pradana,Teknik Industri,Fakultas Teknik,1,25,17,27,1.17,5,0.6261,Prioritas 2 (Tinggi),Jadwalkan Konseling Tatap Muka (Minggu Ini)
+14,250411100088,Maya Puspa,Manajemen,Fakultas Ekonomi dan Bisnis,3,20,14,22,1.07,4,0.5159,Prioritas 2 (Tinggi),Jadwalkan Konseling Tatap Muka (Minggu Ini)
+15,240411100046,Indah Firmansyah,Teknik Mesin,Fakultas Teknik,5,16,14,22,0.88,4,0.4762,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+16,230411100084,Hafiz Wulandari,Teknik Mesin,Fakultas Teknik,8,17,14,22,0.71,4,0.4687,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+17,260411100058,Fajar Susanto,Teknik Mekatronika,Fakultas Teknik,2,17,11,24,0.81,4,0.4684,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+18,250411100034,Gilang Handayani,Teknik Informatika,Fakultas Teknik,4,20,13,20,0.62,4,0.4643,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+19,260411100082,Hafiz Ramadhan,Teknik Mesin,Fakultas Teknik,2,17,11,22,0.83,4,0.4605,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+20,250411100097,Rizky Wijaya,Teknik Mesin,Fakultas Teknik,4,15,11,20,0.97,4,0.4500,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+21,260411100038,Tia Utomo,Teknik Mesin,Fakultas Teknik,1,14,14,25,0.82,3,0.4435,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+22,230411100087,Zahra Oktaviani,Akuntansi,Fakultas Ekonomi dan Bisnis,7,17,11,19,0.78,4,0.4422,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+23,250411100095,Ahmad Maulana,Sistem Informasi,Fakultas Teknik,4,16,11,23,0.98,3,0.4412,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+24,250411100098,Gilang Setiawan,Akuntansi,Fakultas Ekonomi dan Bisnis,4,16,10,22,1.08,3,0.4385,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+25,250411100008,Dedi Anggraini,Akuntansi,Fakultas Ekonomi dan Bisnis,4,19,13,20,0.66,3,0.4314,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+26,240411100012,Nabila Oktaviani,Teknik Informatika,Fakultas Teknik,6,18,14,20,0.59,3,0.4257,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+27,230411100019,Fajar Saputra,Manajemen,Fakultas Ekonomi dan Bisnis,8,14,11,20,0.61,4,0.4150,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+28,240411100062,Indah Anggraini,Akuntansi,Fakultas Ekonomi dan Bisnis,6,14,12,20,0.74,3,0.4014,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+29,240411100050,Wulan Nugroho,Teknik Mesin,Fakultas Teknik,6,13,9,18,0.49,3,0.3479,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+30,260411100049,Ratna Puspa,Sistem Informasi,Fakultas Teknik,2,12,9,18,0.54,3,0.3458,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+31,230411100069,Farhan Kusuma,Ilmu Hukum,Fakultas Hukum,8,11,9,18,0.56,3,0.3413,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+32,250411100004,Sari Setiawan,Sistem Informasi,Fakultas Teknik,4,13,8,17,0.53,3,0.3404,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+33,260411100094,Indah Kusuma,Teknik Industri,Fakultas Teknik,2,12,9,15,0.59,3,0.3355,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+34,250411100063,Ratna Rahman,Akuntansi,Fakultas Ekonomi dan Bisnis,4,12,9,18,0.31,3,0.3273,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+35,250411100036,Dewi Anggraini,Ilmu Hukum,Fakultas Hukum,4,12,8,15,0.55,3,0.3263,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+36,250411100039,Rina Wijaya,Teknik Mekatronika,Fakultas Teknik,4,10,9,17,0.47,3,0.3232,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+37,230411100093,Mega Rahman,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,8,13,9,18,0.54,2,0.3219,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+38,250411100061,Arif Kurnia,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,4,11,8,16,0.49,3,0.3202,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+39,250411100078,Dian Novita,Ilmu Hukum,Fakultas Hukum,3,12,9,17,0.25,3,0.3177,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+40,230411100068,Rian Gunawan,Akuntansi,Fakultas Ekonomi dan Bisnis,7,10,8,16,0.52,3,0.3165,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+41,250411100041,Hafiz Utomo,Manajemen,Fakultas Ekonomi dan Bisnis,4,13,8,18,0.52,2,0.3143,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+42,230411100057,Tia Handayani,Sistem Informasi,Fakultas Teknik,8,12,8,17,0.21,3,0.3086,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+43,260411100085,Siti Maharani,Teknik Industri,Fakultas Teknik,1,11,9,15,0.33,3,0.3085,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+44,230411100002,Dedi Nugroho,Ilmu Hukum,Fakultas Hukum,7,13,8,18,0.44,2,0.3079,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+45,240411100037,Ratna Setiawan,Sistem Informasi,Fakultas Teknik,5,12,9,18,0.44,2,0.3078,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+46,230411100067,Ahmad Maulana,Teknik Mesin,Fakultas Teknik,8,12,8,15,0.30,3,0.3063,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+47,240411100080,Arif Pradana,Teknik Elektro,Fakultas Teknik,6,13,8,15,0.59,2,0.3056,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+48,240411100051,Maya Pradana,Sistem Informasi,Fakultas Teknik,6,10,8,18,0.25,3,0.3044,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+49,240411100031,Aulia Saputra,Teknik Mekatronika,Fakultas Teknik,5,10,9,17,0.56,2,0.3004,Prioritas 3 (Sedang),Konseling Kelompok / Bimbingan Dosen Wali
+50,230411100054,Muhammad Nugroho,Teknik Industri,Fakultas Teknik,7,11,8,18,0.47,2,0.2981,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+51,260411100040,Hafiz Pradana,Teknik Elektro,Fakultas Teknik,1,13,8,17,0.36,2,0.2967,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+52,250411100006,Gilang Rahman,Teknik Mekatronika,Fakultas Teknik,3,10,8,16,0.27,3,0.2964,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+53,230411100043,Budi Nugroho,Akuntansi,Fakultas Ekonomi dan Bisnis,7,11,9,18,0.36,2,0.2952,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+54,240411100023,Hendra Wibowo,Teknik Industri,Fakultas Teknik,5,10,9,15,0.22,3,0.2936,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+55,250411100074,Mega Kusuma,Akuntansi,Fakultas Ekonomi dan Bisnis,4,12,9,18,0.23,2,0.2909,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+56,260411100070,Irfan Maulana,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,1,10,8,16,0.31,2,0.2697,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+57,260411100055,Bagus Safitri,Teknik Mekatronika,Fakultas Teknik,1,10,8,17,0.24,2,0.2688,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+58,240411100016,Eko Wijaya,Teknik Mekatronika,Fakultas Teknik,5,11,8,15,0.23,2,0.2646,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+59,240411100083,Sari Ramadhan,Teknik Elektro,Fakultas Teknik,5,6,5,14,0.20,2,0.2091,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+60,240411100071,Farhan Hidayat,Ilmu Hukum,Fakultas Hukum,5,6,7,11,0.15,2,0.2027,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+61,240411100052,Dimas Setiawan,Manajemen,Fakultas Ekonomi dan Bisnis,6,5,5,12,0.22,2,0.1950,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+62,240411100027,Dewi Kurnia,Teknik Informatika,Fakultas Teknik,5,2,7,13,0.14,2,0.1870,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+63,260411100075,Siti Syahputra,Teknik Mesin,Fakultas Teknik,1,9,0,12,0.17,2,0.1857,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+64,240411100015,Aulia Safitri,Teknik Industri,Fakultas Teknik,6,5,7,14,0.13,1,0.1792,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+65,250411100032,Dedi Lestari,Teknik Industri,Fakultas Teknik,3,8,6,9,0.19,1,0.1726,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+66,240411100010,Gilang Handayani,Manajemen,Fakultas Ekonomi dan Bisnis,5,9,7,8,0.06,1,0.1695,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+67,240411100033,Ilham Kurnia,Manajemen,Fakultas Ekonomi dan Bisnis,5,5,6,12,0.17,1,0.1670,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+68,230411100079,Aulia Firmansyah,Manajemen,Fakultas Ekonomi dan Bisnis,7,5,7,10,0.11,1,0.1586,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+69,240411100091,Zahra Susanto,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,5,1,6,9,0.17,2,0.1583,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+70,240411100020,Rina Hidayat,Teknik Mesin,Fakultas Teknik,6,1,7,12,0.22,1,0.1526,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+71,230411100030,Ahmad Permana,Teknik Elektro,Fakultas Teknik,8,7,6,8,0.00,1,0.1465,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+72,230411100072,Eko Wibowo,Teknik Mesin,Fakultas Teknik,8,3,4,12,0.20,1,0.1453,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+73,230411100014,Wulan Novita,Teknik Informatika,Fakultas Teknik,7,7,2,4,0.13,2,0.1441,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+74,240411100092,Eko Firmansyah,Teknik Mesin,Fakultas Teknik,6,0,7,14,0.07,1,0.1439,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+75,240411100048,Dedi Wijaya,Manajemen,Fakultas Ekonomi dan Bisnis,6,7,6,0,0.05,2,0.1424,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+76,230411100011,Aulia Safitri,Teknik Mesin,Fakultas Teknik,8,6,2,7,0.00,2,0.1418,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+77,260411100060,Tia Syahputra,Manajemen,Fakultas Ekonomi dan Bisnis,2,5,2,7,0.05,2,0.1397,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+78,240411100064,Bambang Wulandari,Teknik Industri,Fakultas Teknik,6,8,2,3,0.05,2,0.1390,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+79,240411100026,Irfan Firmansyah,Teknik Mekatronika,Fakultas Teknik,5,9,1,1,0.13,2,0.1360,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+80,260411100018,Farhan Handayani,Akuntansi,Fakultas Ekonomi dan Bisnis,2,1,6,5,0.11,2,0.1344,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+81,250411100100,Bagus Maulana,Manajemen,Fakultas Ekonomi dan Bisnis,4,3,7,0,0.15,2,0.1320,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+82,230411100044,Fajar Safitri,Manajemen,Fakultas Ekonomi dan Bisnis,7,8,7,0,0.14,1,0.1317,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+83,240411100017,Rian Kurnia,Sistem Informasi,Fakultas Teknik,6,3,4,10,0.12,1,0.1293,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+84,240411100099,Dian Maharani,Ilmu Hukum,Fakultas Hukum,6,6,0,4,0.13,2,0.1261,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+85,250411100029,Dedi Lestari,Teknik Mesin,Fakultas Teknik,4,0,1,10,0.11,2,0.1224,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+86,250411100035,Irfan Novita,Teknik Industri,Fakultas Teknik,3,3,6,5,0.07,1,0.1134,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+87,230411100077,Indah Rahman,Manajemen,Fakultas Ekonomi dan Bisnis,8,1,2,5,0.10,2,0.1098,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+88,260411100047,Rian Puspa,Teknik Mesin,Fakultas Teknik,1,5,1,2,0.04,2,0.1092,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+89,240411100003,Rina Permana,Teknik Mesin,Fakultas Teknik,5,5,1,1,0.09,2,0.1084,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+90,260411100053,Bagus Novita,Teknik Informatika,Fakultas Teknik,2,8,0,5,0.06,1,0.1074,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+91,250411100009,Ratna Susanto,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,4,2,7,1,0.19,1,0.1039,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+92,230411100042,Hafiz Ramadhan,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,8,3,4,3,0.20,1,0.1024,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+93,230411100013,Sari Permana,Akuntansi,Fakultas Ekonomi dan Bisnis,7,5,4,3,0.01,1,0.0994,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+94,240411100081,Irfan Pradana,Sistem Informasi,Fakultas Teknik,6,1,7,1,0.16,1,0.0954,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+95,250411100007,Fitri Nugroho,Teknik Mekatronika,Fakultas Teknik,3,0,5,6,0.07,1,0.0939,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+96,230411100001,Muhammad Wulandari,Teknik Mesin,Fakultas Teknik,7,1,1,9,0.11,1,0.0937,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+97,260411100059,Lestari Susanto,Psikologi,Fakultas Ilmu Sosial dan Ilmu Budaya,2,3,1,4,0.22,1,0.0909,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+98,240411100024,Dimas Ramadhan,Teknik Informatika,Fakultas Teknik,5,1,3,6,0.03,1,0.0849,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+99,260411100090,Gilang Puspa,Teknik Mesin,Fakultas Teknik,1,0,4,5,0.09,1,0.0848,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
+100,230411100028,Fitri Wibowo,Teknik Informatika,Fakultas Teknik,7,1,2,4,0.07,1,0.0727,Prioritas 4 (Rendah / Normal),Edukasi Mandiri & Monitoring Berkala
